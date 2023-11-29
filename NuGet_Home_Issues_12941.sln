@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SecurityVulnerability", "SecurityVulnerability\SecurityVulnerability.csproj", "{D1BF2CB9-D589-4A67-8F5C-5BF44E0B8216}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1BF2CB9-D589-4A67-8F5C-5BF44E0B8216}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1BF2CB9-D589-4A67-8F5C-5BF44E0B8216}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1BF2CB9-D589-4A67-8F5C-5BF44E0B8216}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1BF2CB9-D589-4A67-8F5C-5BF44E0B8216}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15DF65EF-43CD-4481-8E26-B141F2673F37}
+	EndGlobalSection
+EndGlobal
